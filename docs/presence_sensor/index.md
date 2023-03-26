@@ -1,7 +1,5 @@
 ---
-comments: false
-hide:
-  - feedback
+comments: true
 ---
 
 This is a human body 24Ghz radar detector specially for HomeAssistant, which can detect moving human body as well as stationary human body. Based on HiLink's LD2410B(C) radar module, the module itself has Bluetooth function, and you can use HiLink's HLKRadarTool to adjust parameters very conveniently. Detectors are much smarter.
