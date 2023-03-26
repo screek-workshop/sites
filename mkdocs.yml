@@ -1,0 +1,101 @@
+site_name: 小溪创作坊
+dev_addr: "0.0.0.0:8000"
+extra:
+  consent:
+    title: 隐私声明
+    description: >- 
+      我们使用Cookies来识别你的访问和提供个性化的设置, 用来改善我们的文档让它做的更好。
+      如果你同意的话，你将帮助我们做得更好！
+  analytics:
+    provider: google
+    property: G-9Q9FX07Q08
+    feedback:
+      title: 这个页面对你有用吗?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: 这个页面有用
+          data: 1
+          note: >-
+            感谢反馈!
+        - icon: material/emoticon-sad-outline
+          name: 这个页面还需要改进
+          data: 0
+          note: >- 
+            感谢你的反馈! 你可以随时在页面底部的评论区给我们反馈让我们做的很好。
+
+theme:
+  # 量化主题！(23年3月12日_15时55分_)
+  name: material
+  favicon: images/favicon.png
+  # 图标！(23年3月12日_15时55分_)
+  icon:
+    logo: simple/artstation
+  # 覆盖主题(23年3月11日_21时51分_)
+  custom_dir: overrides
+  # 中文语言。(23年3月11日_21时22分_)
+  language: zh
+  # 设置主题颜色。(23年3月11日_21时27分_)
+  # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+  palette: 
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: deep purple
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  
+  features:
+    - navigation.instant
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    # - content.action.edit
+
+# 大部分从Tasmato直接引入。
+# (23年3月12日_16时52分_)
+markdown_extensions:
+  - admonition
+  - toc:
+     permalink: "~"
+     toc_depth: 3
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tilde
+  # - meta
+  - def_list
+  - attr_list
+  - md_in_html
+
+# 网站结构，从这里建造起来。(23年3月12日_16时53分_)
+nav:
+  - 欢迎: index.md
+  - 小溪人体感应雷达: 
+      - 介绍: presence_sensor/index.md
+      - 如何购买: presence_sensor/howtobuy.md
+      - 安装与使用: presence_sensor/installation.md
+      - 高级调参: presence_sensor/advanced.md
+      - 常见问题: presence_sensor/faq.md
+      - 固件升级: presence_sensor/firmware.md

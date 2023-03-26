@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "050c3942edaf21c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d90ec2977e9ce2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a8942c73c55f203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/presence_sensor/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ac001fe527f84e2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6d50b6ee5ea2b219",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0d3e802225131f7d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "83d1040bd2667b1a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2b21a87c4679f01e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cc3eef73d89173ec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "af82e9d8305e5abb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/presence_sensor/index.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2cf82b594e372e96",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "docs/presence_sensor/index.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e44f4bba646d3062",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "docs/presence_sensor/index.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6d50b6ee5ea2b219",
+  "lastOpenFiles": [
+    "docs/presence_sensor/howtobuy.md",
+    "docs/presence_sensor/index.md",
+    "docs/index.md",
+    "docs/presence_sensor/assets/72737DF1-6E6F-42B0-B0F2-4625C30F3384.png",
+    "docs/presence_sensor/assets/0ACB9695-3EE8-4EB2-AE72-819FED4D3560.png",
+    "docs/presence_sensor/assets/55BC106E-92D8-4B58-AB0B-53107CA61FF7.png",
+    "docs/presence_sensor/assets/wifi_password_input.png",
+    "docs/presence_sensor/assets/wifi_ap_connect.png",
+    "docs/presence_sensor/installation.md",
+    "docs/presence_sensor/assets/E4CB5A56-A958-44DD-8E3F-E15AB509F1E0.png",
+    "docs/presence_sensor/faq.md",
+    "docs/presence_sensor"
+  ]
+}

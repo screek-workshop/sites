@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "77ba0cf70557dc27",
+    "type": "split",
+    "children": [
+      {
+        "id": "03c33789bd535461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1967389bbb37f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "presence_sensor/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c69621b7675a7e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d83420ea5c8df1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13c4cad33797509c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d313da01a98f4011",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c40077e4e277bdca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37b07aaf6a83690c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7447b9c6f2fa657b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e368ab58821f16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "presence_sensor/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cf025e07ebda7da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "presence_sensor/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e325f046d495cbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ddc28d1294f3744",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "presence_sensor/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c1967389bbb37f41",
+  "lastOpenFiles": [
+    "presence_sensor/howtobuy.md.sb-ba417346-4dizUP",
+    "presence_sensor/assets/xianyu_search.jpeg",
+    "presence_sensor/howtobuy.md",
+    "presence_sensor/index.md"
+  ]
+}
