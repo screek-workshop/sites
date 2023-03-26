@@ -96,5 +96,5 @@ markdown_extensions:
 nav:
   - Welcome: index.md
   - Motion-Presence Sensor: 
-      - Getting Started: /presence_sensor/getting_started.md
-      - FAQ: /presence_sensor/faq.md
+      - Getting Started: presence_sensor/index.md
+      # - FAQ: presence_sensor/faq.md
