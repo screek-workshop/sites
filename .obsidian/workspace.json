@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b5b3f86cee8c1c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/presence_sensor/Hilink APP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/presence_sensor/Hilink APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/presence_sensor/Hilink APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/presence_sensor/Hilink APP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +142,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b5b3f86cee8c1c91",
+  "active": "f00f95333ce3e1ad",
   "lastOpenFiles": [
+    "docs/presence_sensor/hilink_app.md",
     "docs/presence_sensor/assets/app_6.png",
     "docs/presence_sensor/assets/app_5.png",
     "docs/presence_sensor/assets/app_4.png",
@@ -178,7 +162,6 @@
     "docs/presence_sensor/installation.md",
     "docs/presence_sensor/assets/Pasted image 20230313212945.png",
     "docs/presence_sensor/assets/Pasted image 20230313212821.png",
-    "docs/presence_sensor/assets/Pasted image 20230313212502.png",
     "docs/images",
     "images",
     "未命名文件夹",
