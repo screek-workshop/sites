@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/presence_sensor/firmware.md",
+                "file": "docs/presence_sensor/hilink_app.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/presence_sensor/hilink_app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/presence_sensor/hilink_app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/presence_sensor/hilink_app.md"
+              }
             }
           }
         ]
@@ -142,9 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f00f95333ce3e1ad",
+  "active": "86a98a397728aa70",
   "lastOpenFiles": [
+    "docs/presence_sensor/index.md",
+    "docs/presence_sensor/index_cn.md",
     "docs/presence_sensor/hilink_app.md",
+    "docs/presence_sensor/Hilink APP.md",
     "docs/presence_sensor/assets/app_6.png",
     "docs/presence_sensor/assets/app_5.png",
     "docs/presence_sensor/assets/app_4.png",
@@ -152,9 +159,7 @@
     "docs/presence_sensor/assets/app_2.png",
     "docs/presence_sensor/assets/app_1.png",
     "README.md",
-    "docs/presence_sensor/Hilink APP.md",
     "docs/presence_sensor/firmware.md",
-    "docs/presence_sensor/index.md",
     "docs/presence_sensor/howtobuy.md",
     "docs/presence_sensor/advanced.md",
     "docs/presence_sensor/assets/ha_ui_6.png",
