@@ -8,6 +8,7 @@ extra:
   #   - name: Chineses
   #     link: /cn/
   #     lang: zh
+  generator: false
   consent:
     title: Cookie consent
     description: >- 
@@ -29,6 +30,10 @@ extra:
           data: 0
           note: >- 
             Thanks for your feedback!.
+  social:
+    - icon: fontawesome/brands/ebay
+      link: https://www.ebay.com/usr/screek_workshop
+      # name: eBay Store
 
 theme:
   name: material
