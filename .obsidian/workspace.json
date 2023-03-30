@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/presence_sensor/howtobuy.md",
+                "file": "docs/presence_sensor/firmware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b3f86cee8c1c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/presence_sensor/Hilink APP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/presence_sensor/howtobuy.md",
+                "file": "docs/presence_sensor/Hilink APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/presence_sensor/howtobuy.md",
+                "file": "docs/presence_sensor/Hilink APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/presence_sensor/howtobuy.md"
+                "file": "docs/presence_sensor/Hilink APP.md"
               }
             }
           }
@@ -146,26 +159,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "86a98a397728aa70",
+  "active": "b5b3f86cee8c1c91",
   "lastOpenFiles": [
-    "docs/presence_sensor/advanced.md",
+    "docs/presence_sensor/assets/app_6.png",
+    "docs/presence_sensor/assets/app_5.png",
+    "docs/presence_sensor/assets/app_4.png",
+    "docs/presence_sensor/assets/app_3.png",
+    "docs/presence_sensor/assets/app_2.png",
+    "docs/presence_sensor/assets/app_1.png",
+    "README.md",
+    "docs/presence_sensor/Hilink APP.md",
+    "docs/presence_sensor/firmware.md",
     "docs/presence_sensor/index.md",
+    "docs/presence_sensor/howtobuy.md",
+    "docs/presence_sensor/advanced.md",
     "docs/presence_sensor/assets/ha_ui_6.png",
     "docs/presence_sensor/assets/ha_ui_5.png",
-    "docs/presence_sensor/howtobuy.md",
-    "docs/presence_sensor/firmware.md",
     "docs/presence_sensor/installation.md",
     "docs/presence_sensor/assets/Pasted image 20230313212945.png",
     "docs/presence_sensor/assets/Pasted image 20230313212821.png",
     "docs/presence_sensor/assets/Pasted image 20230313212502.png",
-    "docs/images/favicon.png",
     "docs/images",
-    "images/favicon.png",
-    "images/artstation.svg",
     "images",
     "未命名文件夹",
-    "docs/presence_sensor/assets/wifi_password_input.png",
-    "docs/presence_sensor/assets/wifi_ap_connect.png",
     "docs/index.md"
   ]
 }
