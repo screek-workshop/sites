@@ -21,7 +21,7 @@ It's been an amazing journey! Internet, Deep Learning, Artificial Intelligence, 
 
 ## Current Product
 
-- [Screek Motion-Presence Sensor ](presence_sensor/getting_started.md)：A body-sensing 24G radar specially customized for HomeAssistant, supports APP to adjust parameters, uses WIFI connection, and is made with ESPHome firmware. The yaml source code is open and can be modified at any time.
+- [Screek Motion-Presence Sensor ](presence_sensor/index.md)：A body-sensing 24G radar specially customized for HomeAssistant, supports APP to adjust parameters, uses WIFI connection, and is made with ESPHome firmware. The yaml source code is open and can be modified at any time.
 
 ## Buy One
 [Screek Ebay Store](https://www.ebay.com/usr/screek_workshop)
