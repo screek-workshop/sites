@@ -10,3 +10,4 @@ _site/
 vendor/
 .obsidian/workspace.json
 .obsidian
+/.obsidian/workspace.json
