@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/screek_human_presence_sensor_1u/firmware_upgrade.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/screek_human_presence_sensor_1u/firmware_upgrade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/screek_human_presence_sensor_1u/firmware_upgrade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/screek_human_presence_sensor_1u/firmware_upgrade.md"
               }
             }
           }
@@ -169,8 +169,22 @@
   },
   "active": "5b504ef058df0bd5",
   "lastOpenFiles": [
-    "source/index2.md",
+    "docs/screek_human_presence_sensor_1u/assets/Pasted image 20230704124505.png",
+    "docs/screek_human_presence_sensor_1u/assets/Pasted image 20230704124358.png",
+    "docs/screek_human_presence_sensor_1u/assets/Pasted image 20230704124340.png",
+    "docs/screek_human_presence_sensor_1u/assets/Pasted image 20230704123930.png",
+    "docs/screek_human_presence_sensor_1u/assets/Pasted image 20230704123717.png",
+    "docs/screek_human_presence_sensor_1u/assets/Pasted image 20230704123535.png",
+    "docs/screek_human_presence_sensor_1u/assets/ota-screek-humen-sensor-1u-20230704_1.bin",
+    "docs/screek_human_presence_sensor_1u/assets",
+    "docs/index.md",
     "source/index1.md",
+    "docs/screek_human_presence_sensor_1u/firmware_upgrade.md",
+    "docs/screek_human_presence_sensor_1u",
+    "screek_human_presence_sensor_1u/firmware_upgrade.md",
+    "screek_human_presence_sensor_1u/getting_started.md",
+    "screek_human_presence_sensor_1u",
+    "source/index2.md",
     "source",
     "中文原文/index2.md",
     "README.md",
@@ -180,7 +194,6 @@
     "cn原文",
     "未命名文件夹",
     "docs/index1.md",
-    "docs/index.md",
     "docs/index_cn.md",
     "docs/presence_sensor/hilink_app.md",
     "docs/presence_sensor/index.md",
@@ -194,16 +207,9 @@
     "docs/presence_sensor/assets/app_4.png",
     "docs/presence_sensor/assets/app_3.png",
     "docs/presence_sensor/assets/app_2.png",
-    "docs/presence_sensor/assets/app_1.png",
     "docs/presence_sensor/firmware.md",
     "docs/presence_sensor/howtobuy.md",
     "docs/presence_sensor/advanced.md",
-    "docs/presence_sensor/assets/ha_ui_6.png",
-    "docs/presence_sensor/assets/ha_ui_5.png",
-    "docs/presence_sensor/installation.md",
-    "docs/presence_sensor/assets/Pasted image 20230313212945.png",
-    "docs/presence_sensor/assets/Pasted image 20230313212821.png",
-    "docs/images",
-    "images"
+    "docs/presence_sensor/installation.md"
   ]
 }

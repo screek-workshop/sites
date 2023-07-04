@@ -65,8 +65,8 @@ theme:
   
   features:
     - navigation.instant
-    # - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     # - content.action.edit
@@ -97,10 +97,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
-# 网站结构，从这里建造起来。(23年3月12日_16时53分_)
 nav:
   - Welcome: index.md
-  - Motion-Presence Sensor: 
-      - Getting Started: presence_sensor/index.md
-      - Hilink APP: presence_sensor/hilink_app.md
+  - Screek Human presence Sensor 1U: 
+      - Frimware Upgrade: screek_human_presence_sensor_1u/firmware_upgrade.md
+      # - Hilink APP: presence_sensor/hilink_app.md
       # - FAQ: presence_sensor/faq.md
