@@ -11,20 +11,22 @@ We have made a number of improvements to the stability of 1U:
 
 ## How To Use
 
-1. First we need to find the corresponding radar devices in HomeAssistant, they are often in Esphome, please note that we have modified its default name here. Click on the **VISIT** button, this will take you to the sensor's own web server interface.
+-  First we need to find the corresponding radar devices in HomeAssistant, they are often in Esphome, please note that we have modified its default name here. Click on the **VISIT** button, this will take you to the sensor's own web server interface.
 ![](assets/Pasted%20image%2020230704123535.png)
 
 
-2. In the sensor's web server interface, which looks like this, select the file below:
+- In the sensor's web server interface, which looks like this, select the file below:
 ![](assets/Pasted%20image%2020230704123717.png)
 
-* Select an ota firmware:
+	- Select an ota firmware:
 ![](assets/Pasted%20image%2020230704123930.png)
 
-3. Click on the **update** button and wait for a while, depending on the network, it can be anywhere from a few seconds to tens of seconds.  
+
+- Click on the **update** button and wait for a while, depending on the network, it can be anywhere from a few seconds to tens of seconds.  
 
 ![](assets/Pasted%20image%2020230704124358.png)
 
 ![](assets/Pasted%20image%2020230704124340.png)
-4. Return to HA's device page, refresh the page, and observe if the version information changes, and if it becomes the new date, then the update is complete.
+
+-  Return to HA's device page, refresh the page, and observe if the version information changes, and if it becomes the new date, then the update is complete.
 ![](assets/Pasted%20image%2020230704124505.png)
