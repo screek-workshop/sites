@@ -100,6 +100,6 @@ markdown_extensions:
 nav:
   - Welcome: index.md
   - Screek Human presence Sensor 1U: 
-      - Frimware Upgrade: screek_human_presence_sensor_1u/firmware_upgrade.md
+      - Frimware Upgrade: 1u/firmware.md
       # - Hilink APP: presence_sensor/hilink_app.md
       # - FAQ: presence_sensor/faq.md
