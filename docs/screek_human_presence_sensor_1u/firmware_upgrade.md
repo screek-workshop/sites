@@ -4,9 +4,10 @@
 ## Whta't New
 ### 20270704_1
 We have made a number of improvements to the stability of 1U:  
-- Reduced the update strategy for some debug parameters
-- Lowered the main frequency, reducing 240Mhz to 80Mhz, which our tests found to be fast enough for a task like radar. This is even better for temperature and persistence stability.
-- Improved the Wifi signal strategy, removing the overly aggressive one.  
+
+- Reduced the update strategy for some debug parameters  
+- Lowered the main frequency, reducing 240Mhz to 80Mhz, which our tests found to be fast enough for a task like radar. This is even better for temperature and persistence stability.  
+- Improved the Wifi signal strategy, removing the overly aggressive one.    
 
 ## How To Use
 
