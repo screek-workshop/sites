@@ -1,13 +1,19 @@
 ## Firmware File
-[Dropbox Link](https://www.dropbox.com/s/1nqeoqzv4vf8x1e/ota-screek-humen-sensor-1u-20230704_1.bin?dl=0)
 
-## Whta't New
-### 20270704_1
+### V2023_0704_1
 We have made a number of improvements to the stability of 1U:  
 
 - Reduced the update strategy for some debug parameters  
 - Lowered the main frequency, reducing 240Mhz to 80Mhz, which our tests found to be fast enough for a task like radar. This is even better for temperature and persistence stability.  
 - Improved the Wifi signal strategy, removing the overly aggressive one.    
+
+**Downloads**  
+
+[Download V2023_0704_1](../firmwares/ota-screek-humen-sensor-1u-20230704_1.bin){ .md-button .md-button--primary }
+
+Or
+
+[Download From Dropbox](https://www.dropbox.com/s/1nqeoqzv4vf8x1e/ota-screek-humen-sensor-1u-20230704_1.bin?dl=0){ .md-button .md-button--primary }
 
 ## How To Use
 
