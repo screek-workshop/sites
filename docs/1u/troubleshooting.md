@@ -7,7 +7,11 @@ In most cases, as soon as the network is configured, the sensor broadcasts its o
 However, some circumstances may affect this discovery process:    
 - If the router blocks the devices from accessing each other, the devices are undiscoverable and cannot be connected. For example, the sensor is connected to an isolated guest network.  
 - If a sensor has been added in Home Assistant, but then removed, it will not be discovered again at this point. This behavior is already present in Home Assistant version 2023.06.  
-  
+
+!!! notes
+
+	Here is just the hotspot distribution network, HA automatically found not working properly for use. In most cases, you don't need to use this tedious step to connect 1U.
+
 ### Network configuration using USB cable
 In order to configure the sensor directly with the USB cable, you need a Mac or or Windows, a Chrome browser, or an Edge browser.  
 Connect the sensor to your computer with a Type-C cable and visit the configuration page at  
