@@ -9,13 +9,13 @@ extra:
   #     link: /cn/
   #     lang: zh
   generator: false
-  consent:
-    title: Cookie consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+  # consent:
+  #   title: Cookie consent
+  #   description: >- 
+  #     We use cookies to recognize your repeated visits and preferences, as well
+  #     as to measure the effectiveness of our documentation and whether users
+  #     find what they're searching for. With your consent, you're helping us to
+  #     make our documentation better.
   analytics: 
     feedback:
       title: Was this page helpful?
@@ -32,7 +32,7 @@ extra:
             Thanks for your feedback!.
   social:
     - icon: fontawesome/brands/ebay
-      link: https://www.ebay.com/usr/screek_workshop
+      link: https://www.ebay.com/str/screekworkshop
       # name: eBay Store
 
 theme:
@@ -69,7 +69,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
-    # - content.action.edit
+    - content.action.edit
 
 # 大部分从Tasmato直接引入。
 # (23年3月12日_16时52分_)
