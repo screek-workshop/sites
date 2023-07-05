@@ -1,5 +1,4 @@
 ## Firmware File
-
 ### V2023_0704_1
 We have made a number of improvements to the stability of 1U:  
 
@@ -11,28 +10,56 @@ We have made a number of improvements to the stability of 1U:
 
 [Download V2023_0704_1](../firmwares/ota-screek-humen-sensor-1u-20230704_1.bin){ .md-button .md-button--primary }
 
-Or
+!!! tips
 
-[Download From Dropbox](https://www.dropbox.com/s/1nqeoqzv4vf8x1e/ota-screek-humen-sensor-1u-20230704_1.bin?dl=0){ .md-button .md-button--primary }
+	If you are experiencing problems with your download, you can try [Download From Dropbox](https://www.dropbox.com/s/1nqeoqzv4vf8x1e/ota-screek-humen-sensor-1u-20230704_1.bin?dl=0)
+
 
 ## How To Use
 
 -  First we need to find the corresponding radar devices in HomeAssistant, they are often in Esphome, please note that we have modified its default name here. Click on the **VISIT** button, this will take you to the sensor's own web server interface.
-![](assets/Pasted%20image%2020230704123535.png)
 
+<figure markdown>
+  ![](assets/1u_firmware_update_0_1.png)
+  <figcaption>Go to Devices and Services page.</figcaption>
+  
+  ![](assets/1u_firmware_update_0_2.png)
+  <figcaption>Click 1 Device</figcaption>
+  
+  ![](assets/1u_firmware_update_1.png)
+  <figcaption>On the device page, click the VISIT button.</figcaption>
+</figure>
 
-- In the sensor's web server interface, which looks like this, select the file below:
-![](assets/Pasted%20image%2020230704123717.png)
+- In the sensor's web server interface, which looks like this, select the **BROWSE** button to find the .bin file you downloaded earlier:
 
-	- Select an ota firmware:
-![](assets/Pasted%20image%2020230704123930.png)
-
+<figure markdown>
+  ![](assets/1u_firmware_update_2.png)
+  <figcaption>Click Broswer Button.</figcaption>
+  
+  ![](assets/1u_firmware_update_3.png)
+  <figcaption>Find the bin file.</figcaption>
+  
+</figure>
 
 - Click on the **update** button and wait for a while, depending on the network, it can be anywhere from a few seconds to tens of seconds.  
 
-![](assets/Pasted%20image%2020230704124358.png)
+<figure markdown>
+  ![](assets/1u_firmware_update_4.png)
+  <figcaption>Click The Update Button.</figcaption>
+  
+  ![](assets/1u_firmware_update_5.png)
+  <figcaption>Wait The Update Sucusee Info.</figcaption>
+</figure>
 
-![](assets/Pasted%20image%2020230704124340.png)
+!!! notes
+	Due to some design issues with esphome, sometimes showing success doesn't mean the firmware is updated. Finally, the version date shown on the device page in Home Assistant is used as a reference.
 
 -  Return to HA's device page, refresh the page, and observe if the version information changes, and if it becomes the new date, then the update is complete.
-![](assets/Pasted%20image%2020230704124505.png)
+
+<figure markdown>
+  ![](assets/1u_firmware_update_6.png)
+  <figcaption>Refresh the page and check the firmware version.</figcaption>
+</figure>
+
+## Credits
+- Thanks to *Harry Fine* for giving us advice on making language a magic.
