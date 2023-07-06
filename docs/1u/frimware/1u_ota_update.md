@@ -8,7 +8,7 @@ We have made a number of improvements to the stability of 1U:
 
 **Downloads**  
 
-[Download V2023_0704_1](../firmwares/ota-screek-humen-sensor-1u-20230704_1.bin){ .md-button .md-button--primary }
+[Download V2023_0704_1](../files/ota-screek-humen-sensor-1u-20230704_1.bin){ .md-button .md-button--primary }
 
 !!! tips
 

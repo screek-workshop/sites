@@ -103,7 +103,8 @@ nav:
   - Human Presence Sensor 1U: 
       - Getting Start: 1u/index.md
       - Frimware:
-        - OTA Frimware Upgrade: 1u/firmware.md
+        - Introduction: 1u/frimware/index.md
+        - OTA Frimware Upgrade: 1u/frimware/1u_ota_update.md
       - Troubleshooting:
         - Cannot discover devices in Home Assistant: 1u/troubleshooting/ha_discover_problem.md
       # - Hilink APP: presence_sensor/hilink_app.md
