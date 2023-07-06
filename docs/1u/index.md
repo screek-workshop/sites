@@ -1,4 +1,4 @@
-Thank to use our human presence sensor, here we want to help you to connect the sensor to Home Assistant quickly.
+Thank to use **Screek Human Presence Sensor 1U**, here we want to help you to connect the sensor to Home Assistant quickly.
 
 In case you're confused about our models, this is what 1U looks like.   
 It is a small square box.  
