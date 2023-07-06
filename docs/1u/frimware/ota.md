@@ -3,11 +3,9 @@ OTA (On The Air) firmware is one of the most convenient methods of updating:
 - Update via WIFI without removing the sensor.  
 - Operates on either PC or MAC, even on cell phones. Only a modern browser is needed (Chrome, Safari, FireFox, Edge.)
 
-## Important Notes
-
-!!! bug
+!!! tips
 	If your firmware is earlier than 2023.0704, then there may be some stability issues.   
-	Please try to update your firmware to this date or later.  
+	Please try to update your firmware to this date(V2023_0704_1) or later.  
 
 
 ## Firmware File
@@ -24,11 +22,11 @@ We have made a number of improvements to the stability of 1U:
 
 !!! tips
 	If your firmware version is the same as the one shown in the picture, then that's the version you've got: 
-	<figure markdown>
 	
-	  ![](images/230704_01_info.png)
-	  <figcaption>Firmware version identification 2023_0704_01</figcaption>
-	</figure>
+<figure markdown>
+  ![](images/230704_01_info.png)
+  <figcaption>Firmware version identification 2023_0704_01</figcaption>
+</figure>
 
 
 !!! tips
