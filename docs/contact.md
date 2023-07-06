@@ -32,7 +32,7 @@ We have experienced many times that our email replies have been placed in the wr
 > [https://www.ebay.com/str/screekworkshop](https://www.ebay.com/str/screekworkshop){.md-button .md-button--primary}
 > 
 <figure markdown>
-  ![](assets/ebay_contact_us.png)
+  ![](images/ebay_contact_us.png)
   <figcaption>Contact Button On eBay Store</figcaption>
 </figure>
 

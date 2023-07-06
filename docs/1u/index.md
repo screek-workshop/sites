@@ -6,7 +6,7 @@ We made more than 1000 radars and it is a DIY product we are very proud of.
 
 <figure markdown>
 
-  ![](assets/1u-box.png)
+  ![](images/1u-box.png)
   <figcaption>Identify your sensor model, 1u is a small square box.</figcaption>
 
 </figure>
