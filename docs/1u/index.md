@@ -11,6 +11,3 @@ We made more than 1000 radars and it is a DIY product we are very proud of.
 
 </figure>
 
-## Configuring the network
-
-**To be completed**
