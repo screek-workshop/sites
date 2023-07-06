@@ -1,3 +1,8 @@
+OTA (On The Air) firmware is one of the most convenient methods of updating:  
+
+- Update via WIFI without removing the sensor.  
+- Operates on either PC or MAC, even on cell phones. Only a modern browser is needed (Chrome, Safari, FireFox, Edge.)
+
 ## Firmware File
 ### V2023_0704_1
 We have made a number of improvements to the stability of 1U:  
@@ -9,6 +14,15 @@ We have made a number of improvements to the stability of 1U:
 **Downloads**  
 
 [Download V2023_0704_1](../files/ota-screek-humen-sensor-1u-20230704_1.bin){ .md-button .md-button--primary }
+
+!!! tips
+	If your firmware version is the same as the one shown in the picture, then that's the version you've got: 
+	<figure markdown>
+	
+	  ![](images/230704_01_info.png)
+	  <figcaption>Firmware version identification 2023_0704_01</figcaption>
+	</figure>
+
 
 !!! tips
 
