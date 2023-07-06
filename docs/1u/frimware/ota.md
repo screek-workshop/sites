@@ -4,6 +4,9 @@ OTA (On The Air) firmware is one of the most convenient methods of updating:
 - Operates on either PC or MAC, even on cell phones. Only a modern browser is needed (Chrome, Safari, FireFox, Edge.)
 
 !!! tips
+	To identify the version of your current firmware, please visit our [version identification](version.md) page.
+
+!!! tips
 	If your firmware is earlier than 2023.0704, then there may be some stability issues.   
 	Please try to update your firmware to this date(V2023_0704_1) or later.  
 

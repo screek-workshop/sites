@@ -104,6 +104,7 @@ nav:
       - Getting Start: 1u/index.md
       - Frimware:
         - Intro: 1u/frimware/index.md
+        - What's My Version: 1u/frimware/version.md
         - OTA Frimware Upgrade: 1u/frimware/ota.md
         # - Frimware Restore: 1u/frimware/factory.md
       - Troubleshooting:
