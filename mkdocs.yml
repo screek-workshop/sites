@@ -101,9 +101,9 @@ nav:
   - Welcome: index.md
   # - Store: store.md
   - Screek Human presence Sensor 1U: 
-      - Getting Start: 1u/quick-start.md
+      - Getting Start: 1u/index.md
       - Troubleshooting: 1u/troubleshooting.md
       - Frimware Upgrade: 1u/firmware.md
       # - Hilink APP: presence_sensor/hilink_app.md
       # - FAQ: presence_sensor/faq.md
-  - Contact: support.md
+  - Contact: contact.md
