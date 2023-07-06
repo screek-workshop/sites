@@ -7,6 +7,16 @@ OTA (On The Air) firmware is one of the most convenient methods of updating:
 	If your firmware is earlier than 2023.0704, then there may be some stability issues.   
 	Please try to update your firmware to this date(V2023_0704_1) or later.  
 
+!!! waring
+	If your firmware is use [Jun 18 2023] version, please update it soon as possible.  
+	We have received some feedback that this version may cause bad dropouts.
+
+<figure markdown>
+  ![](images/20270618_waring.png)
+  <figcaption>If you are using the June 2023 firmware, it is recommended that you update immediately.</figcaption>
+</figure>
+
+
 
 ## Firmware File
 ### V2023_0704_1
@@ -22,7 +32,7 @@ We have made a number of improvements to the stability of 1U:
 
 !!! tips
 	If your firmware version is the same as the one shown in the picture, then that's the version you've got: 
-	
+
 <figure markdown>
   ![](images/230704_01_info.png)
   <figcaption>Firmware version identification 2023_0704_01</figcaption>

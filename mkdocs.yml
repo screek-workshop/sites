@@ -108,6 +108,7 @@ nav:
         # - Frimware Restore: 1u/frimware/factory.md
       - Troubleshooting:
         - Cannot discover devices in Home Assistant: 1u/troubleshooting/ha_discover_problem.md
+        - My Deivce Often Become Unavailable: 1u/troubleshooting/often_become_unavailable.md
       # - Hilink APP: presence_sensor/hilink_app.md
       # - FAQ: presence_sensor/faq.md
   - Contact: contact.md
