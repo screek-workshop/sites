@@ -1,7 +1,24 @@
-## Configuring By A Phone
+The easiest way to get your device connected to Home Assistant to do its job is to use a hotspot to pair it with the network. You can use a phone, or a computer with a wireless network card to do this step.
+
+## Prerequisites
+
+In order to complete the networking process, you need to meet these conditions:    
+
+- A smartphone capable of connecting to a wireless network, or a computer (can be a laptop, desktop computer, Mac computer, ChromeBook...) with a wireless network card.
+- Your Home Assistant is connected to your local LAN, i.e. you can access it on your local LAN.  
+- A stable and reliable 5V 1A+ USB power adapter for powering the sensor.  
+- A Type-C data cable to connect the sensor to the power adapter. 
+
+!!! info
+
+	To make it easier to get started quickly, our accessories usually include a Type-C cable, and at least one double-sided adhesive.
+
+## Configuring By A Smart Phone
+
+In the demo below, we demonstrate using an iPhone to configure the device to connect to Home Assistant. if you are using an Android phone, the process is similar.  
 
 !!! tips
-	After connecting the sensor's hotspot, the phone will pop up a Configure Network page,   
+	After connecting the sensor's hotspot, the phone will pop up a Configure Network page, 
 	if it does not pop up automatically, please enter the page manually: [http://192.168.4.1](http://192.168.4.1).
 
 <figure markdown>

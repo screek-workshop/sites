@@ -11,3 +11,8 @@ We made more than 1000 radars and it is a DIY product we are very proud of.
 
 </figure>
 
+A number of optimizations have been made to ensure that the entire connection is completed as quickly as possible.
+
+If you are not familiar with EspHome devices, then you can refer to our Quick Start Guide:
+
+[Getting Start](getting-start.md){.md-button .md-button--primary}
