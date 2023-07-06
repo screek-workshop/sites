@@ -102,7 +102,7 @@ nav:
   # - Store: store.md
   - Human Presence Sensor 1U: 
       - Getting Start: 1u/index.md
-      - Frimware:
+      - Frimware Upgrade:
         - Introduction: 1u/frimware/index.md
         - OTA Frimware Upgrade: 1u/frimware/1u_ota_update.md
       - Troubleshooting:
