@@ -1,4 +1,4 @@
-We offer our DIY products mainly on eBay. Thanks to eBay's excellent reputation, we make our products as accessible as possible to all sites:
+We offer our DIY products **Screeek Human Presence Sensor 1U** mainly on eBay. Thanks to eBay's excellent reputation, we make our products as accessible as possible to all sites:
 
 [eBay US](https://www.ebay.com/itm/185840589963){.md-button .md-button--primary} 
 
