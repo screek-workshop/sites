@@ -13,6 +13,11 @@ However, some circumstances may affect this discovery process:  
 	Here is just the hotspot distribution network, HA automatically found not working properly for use. In most cases, you don't need to use this tedious step to connect 1U.
 
 ### Network configuration using USB cable
+
+!!! notes
+
+	If you are able to use the hotspot to pair up the network properly, you can just bypass the part about setting up the network, but you will still need to use the USB cable to quickly get the IP of the device, which is one of the better ways to do it.
+
 In order to configure the sensor directly with the USB cable, you need a Mac or or Windows, a Chrome browser, or an Edge browser.  
 Connect the sensor to your computer with a Type-C cable and visit the configuration page at  
 > [https://web.esphome.io/](https://web.esphome.io/){.md-button .md-button--primary}
