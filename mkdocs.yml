@@ -108,7 +108,6 @@ nav:
   - Human Presence Sensor 1U: 
       - Intro: 1u/index.md
       - Getting Start: 1u/getting-start.md
-      - Purchase: 1u/buy.md
       - Firmware:
         - Intro: 1u/firmware/index.md
         - What's My Version: 1u/firmware/version.md
@@ -119,4 +118,5 @@ nav:
         - My Deivce Often Become Unavailable: 1u/troubleshooting/often_become_unavailable.md
       # - Hilink APP: presence_sensor/hilink_app.md
       # - FAQ: presence_sensor/faq.md
+      - Purchase: 1u/buy.md
   - Contact: contact.md

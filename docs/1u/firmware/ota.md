@@ -6,18 +6,6 @@ OTA (On The Air) firmware is one of the most convenient methods of updating:
 !!! info
 	To identify the version of your current firmware, please visit our [version identification](version.md) page.
 
-!!! note
-	- If your firmware is use [Jun 18 2023] version, please update it soon as possible.  
-	We have received some feedback that this version may cause bad dropouts.
-	- If your firmware is earlier than 2023.0704, then there may be some stability issues.   
-	Please try to update your firmware to this date(V2023_0704_1) or later.  
-<figure markdown>
-  ![](images/20270618_waring.png)
-  <figcaption>If you are using the June 2023 firmware, it is recommended that you update immediately.</figcaption>
-</figure>
-
-
-
 ## Firmware File
 ### V2023_0704_1
 We have made a number of improvements to the stability of 1U:  
@@ -42,7 +30,6 @@ We have made a number of improvements to the stability of 1U:
 !!! tips
 
 	If you are experiencing problems with your download, you can try [Download From Dropbox](https://www.dropbox.com/s/1nqeoqzv4vf8x1e/ota-screek-humen-sensor-1u-20230704_1.bin?dl=0)
-
 
 ## How To Use
 
@@ -80,7 +67,7 @@ We have made a number of improvements to the stability of 1U:
   <figcaption>Wait The Update Sucusee Info.</figcaption>
 </figure>
 
-!!! notes
+!!! info
 	Due to some design issues with esphome, sometimes showing success doesn't mean the firmware is updated. Finally, the version date shown on the device page in Home Assistant is used as a reference.
 
 -  Return to HA's device page, refresh the page, and observe if the version information changes, and if it becomes the new date, then the update is complete.
@@ -88,6 +75,25 @@ We have made a number of improvements to the stability of 1U:
 <figure markdown>
   ![](images/1u_firmware_update_6.png)
   <figcaption>Refresh the page and check the firmware version.</figcaption>
+</figure>
+
+## Notes
+### Recommended updated versions
+- If your firmware is use [Jun 18 2023] version, please update it soon as possible. We have received some feedback that this version may cause bad dropouts.
+
+- If your firmware is earlier than 2023.0704, then there may be some stability issues.  Please try to update your firmware to this date(V2023_0704_1) or later.  
+
+<figure markdown>
+  ![](images/20270618_waring.png)
+  <figcaption>If you are using the June 2023 firmware, it is recommended that you update immediately.</figcaption>
+</figure>
+
+### Show duplicate HA attributes after update
+* Some firmware versions modify the parameter configuration of the attribute, resulting in a new HA attribute, while the old one becomes unavailable. This does not affect usage, if you want to remove them, remove the device from HA and re-add the device. When re-adding, you may need to reboot HA once since HA will not find devices that have already been added, or you can manually add them using the sensor's IP if you don't want to reboot.  
+
+<figure markdown>
+  ![](images/ha_unavailable_dup.png)
+  <figcaption>Duplicate properties after firmware update can be eliminated by re-adding the device.</figcaption>
 </figure>
 
 ## Credits
