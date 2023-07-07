@@ -5,6 +5,8 @@ OTA (On The Air) firmware is one of the most convenient methods of updating:
 
 !!! info
 	To identify the version of your current firmware, please visit our [version identification](version.md) page.
+  
+[Translated with DeepL](https://www.deepl.com/translator?utm_source=macos&utm_medium=app&utm_campaign=macos-share)
 
 ## OTA Firmware File
 ### V2023_0704_1
@@ -78,6 +80,13 @@ We have made a number of improvements to the stability of 1U:
 </figure>
 
 ## Notes
+### Page becomes unresponsive on the way to update
+
+If there is a situation like not being able to open the page on the way to update, this may be due to a weak signal and untimely response. You can try to bring the sensor closer to the wireless router and try again with a better signal.    
+
+You can also rule out whether the downloaded firmware file name has special symbols, browsers may add a bracket suffix to the file name when repeatedly downloading, this may also cause problems on very few browsers.    
+  
+
 ### Recommended updated versions
 - If your firmware is use [Jun 18 2023] version, please update it soon as possible. We have received some feedback that this version may cause bad dropouts.
 
