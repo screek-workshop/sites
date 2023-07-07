@@ -1,13 +1,6 @@
 site_name: SCREEK WORKSHOP
 dev_addr: "0.0.0.0:8000"
 extra:
-  # alternate:
-  #   - name: English
-  #     link: /en/ 
-  #     lang: en
-  #   - name: Chineses
-  #     link: /cn/
-  #     lang: zh
   generator: false
   # consent:
   #   title: Cookie consent
@@ -46,6 +39,7 @@ plugins:
 theme:
   name: material
   favicon: images/favicon.png
+  # logo: images/screek.png
   icon:
     logo: simple/artstation
   custom_dir: overrides
