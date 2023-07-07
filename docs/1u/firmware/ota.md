@@ -3,17 +3,14 @@ OTA (On The Air) firmware is one of the most convenient methods of updating:
 - Update via WIFI without removing the sensor.  
 - Operates on either PC or MAC, even on cell phones. Only a modern browser is needed (Chrome, Safari, FireFox, Edge.)
 
-!!! tips
+!!! info
 	To identify the version of your current firmware, please visit our [version identification](version.md) page.
 
-!!! tips
-	If your firmware is earlier than 2023.0704, then there may be some stability issues.   
-	Please try to update your firmware to this date(V2023_0704_1) or later.  
-
-!!! waring
-	If your firmware is use [Jun 18 2023] version, please update it soon as possible.  
+!!! note
+	- If your firmware is use [Jun 18 2023] version, please update it soon as possible.  
 	We have received some feedback that this version may cause bad dropouts.
-
+	- If your firmware is earlier than 2023.0704, then there may be some stability issues.   
+	Please try to update your firmware to this date(V2023_0704_1) or later.  
 <figure markdown>
   ![](images/20270618_waring.png)
   <figcaption>If you are using the June 2023 firmware, it is recommended that you update immediately.</figcaption>

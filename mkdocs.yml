@@ -109,10 +109,10 @@ nav:
       - Intro: 1u/index.md
       - Getting Start: 1u/getting-start.md
       - Purchase: 1u/buy.md
-      - Frimware:
-        - Intro: 1u/frimware/index.md
-        - What's My Version: 1u/frimware/version.md
-        - OTA Frimware Upgrade: 1u/frimware/ota.md
+      - Firmware:
+        - Intro: 1u/firmware/index.md
+        - What's My Version: 1u/firmware/version.md
+        - OTA Upgrade: 1u/firmware/ota.md
         # - Frimware Restore: 1u/frimware/factory.md
       - Troubleshooting:
         - Cannot discover devices in Home Assistant: 1u/troubleshooting/ha_discover_problem.md
