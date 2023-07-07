@@ -19,4 +19,5 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       - run: pip install mkdocs-material 
+      - run: pip install mkdocs-redirects==1.2.0
       - run: mkdocs gh-deploy --force
