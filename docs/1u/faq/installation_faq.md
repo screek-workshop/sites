@@ -1,9 +1,8 @@
-## Installation Questions
-### Use Battery For Power
+## Use Battery For Power
 I bought one of these and it was as easy to set up as being mentioned here. The problem I have is that I have no power outlet in the toilet I am now planning to use it in, is it possible to power this thing with battery instead ? (by nlindblo@ha forum)
 > I'm sorry, but I'm afraid that batteries are not a viable option considering the relatively large amount of power required by the device. The radar module is a sensor that generates a lot of heat and consumes a lot of power, and the usual operating current is up to 70ma, while the esp32 in the RF section is also very power hungry.  
 
-### Working angle, Distance of Radar
+## Working angle, Distance of Radar
 
 What is the working angle of the radar, what is the distance?  
 

@@ -114,7 +114,9 @@ nav:
         - OTA Upgrade: 1u/firmware/ota.md
         - Advanced:
           - Factory Restore: 1u/firmware/factory.md
-      - FAQ: 1u/faq.md
+      - FAQ: 
+        - Installation FAQ: 1u/faq/installation_faq.md
+        - Usage FAQ: 1u/faq/usage_faq.md
       - Troubleshooting:
         - Cannot discover devices in Home Assistant: 1u/troubleshooting/ha_discover_problem.md
         - My Deivce Often Become Unavailable: 1u/troubleshooting/often_become_unavailable.md
