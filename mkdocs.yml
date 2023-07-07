@@ -38,7 +38,7 @@ extra:
 plugins:
     - redirects:
         redirect_maps:
-            '1u/firmware/index.md': '1u/frimware/index.md'
+            '1u/frimware/index.md': '1u/firmware/index.md'
 
 theme:
   name: material
