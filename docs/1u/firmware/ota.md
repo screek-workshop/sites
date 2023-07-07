@@ -16,7 +16,7 @@ We have made a number of improvements to the stability of 1U:
 
 **Downloads**  
 
-[OTA_V2023_0704_1](../files/ota-screek-humen-sensor-1u-20230704_1.bin){ .md-button .md-button--primary }
+[OTA_V2023_0704_1](files/ota-screek-humen-sensor-1u-20230704_1.bin){ .md-button .md-button--primary }
 
 !!! tips
 	If your firmware version is the same as the one shown in the picture, then that's the version you've got: 
