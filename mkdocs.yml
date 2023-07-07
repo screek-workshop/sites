@@ -34,6 +34,9 @@ extra:
     - icon: fontawesome/brands/ebay
       link: https://www.ebay.com/str/screekworkshop
       # name: eBay Store
+  analytics:
+    provider: google
+    property: G-RQE1GB4GCG
 
 plugins:
     - redirects:
