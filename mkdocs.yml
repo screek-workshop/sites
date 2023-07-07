@@ -35,6 +35,11 @@ extra:
       link: https://www.ebay.com/str/screekworkshop
       # name: eBay Store
 
+plugins:
+    - redirects:
+        redirect_maps:
+            '1u/firmware/index.md': '1u/frimware/index.md'
+
 theme:
   name: material
   favicon: images/favicon.png
