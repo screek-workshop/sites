@@ -36,7 +36,7 @@ extra:
       # name: eBay Store
   analytics:
     provider: google
-    property: G-RQE1GB4GCG
+    property: G-3S0J3KLT7F
 
 plugins:
     - redirects:
