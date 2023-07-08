@@ -3,7 +3,7 @@ is there a front and a back to the sensor, I assume it has to be pointed a certa
 > If mounting on the wall, please do this to turn the LOGO side up to keep the sensor at the best working angle.
 
 !!! note
-	If you want to know more about radiation angle, and distance, please refer to: [more Info about ld2410](installation_faq.md#working-angle-distance-of-radar)
+	If you want to know more about radiation angle, and distance, please refer to: [more Info about ld2410](hardware_faq.md#working-angle-distance-of-radar)
 
 <figure markdown>
   ![](images/ld2410_angle.png)

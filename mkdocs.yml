@@ -113,7 +113,7 @@ nav:
           - Factory Restore: 1u/firmware/factory.md
           - ESPHome Source: 1u/firmware/yaml.md
       - FAQ: 
-        - Installation FAQ: 1u/faq/installation_faq.md
+        - Hardware FAQ: 1u/faq/hardware_faq.md
         - Usage FAQ: 1u/faq/usage_faq.md
       - Troubleshooting:
         - Cannot discover devices in Home Assistant: 1u/troubleshooting/ha_discover_problem.md
