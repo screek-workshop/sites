@@ -1,3 +1,6 @@
+
+![](images/Pasted%20image%2020230708094723.png)
+
 ## Use Battery For Power
 I bought one of these and it was as easy to set up as being mentioned here. The problem I have is that I have no power outlet in the toilet I am now planning to use it in, is it possible to power this thing with battery instead ? (by nlindblo@ha forum)
 > I'm sorry, but I'm afraid that batteries are not a viable option considering the relatively large amount of power required by the device. The radar module is a sensor that generates a lot of heat and consumes a lot of power, and the usual operating current is up to 70ma, while the esp32 in the RF section is also very power hungry.  
