@@ -1,5 +1,14 @@
+## Mounting direction of the sensor
+is there a front and a back to the sensor, I assume it has to be pointed a certain way with the letters on the outside.(Harry Fine)
+> If mounting on the wall, please do this to turn the LOGO side up to keep the sensor at the best working angle.
 
-![](images/Pasted%20image%2020230708094723.png)
+!!! note
+	If you want to know more about radiation angle, and distance, please refer to: [more Info about ld2410](installation_faq.md#working-angle-distance-of-radar)
+
+<figure markdown>
+  ![](images/ld2410_angle.png)
+  <figcaption>Radar installation direction</figcaption>
+</figure>
 
 ## Use Battery For Power
 I bought one of these and it was as easy to set up as being mentioned here. The problem I have is that I have no power outlet in the toilet I am now planning to use it in, is it possible to power this thing with battery instead ? (by nlindblo@ha forum)
