@@ -5,8 +5,6 @@ OTA (On The Air) firmware is one of the most convenient methods of updating:
 
 !!! info
 	To identify the version of your current firmware, please visit our [version identification](version.md) page.
-  
-[Translated with DeepL](https://www.deepl.com/translator?utm_source=macos&utm_medium=app&utm_campaign=macos-share)
 
 ## OTA Firmware File
 ### V2023_0704_1
