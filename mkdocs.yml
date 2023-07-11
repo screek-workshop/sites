@@ -105,6 +105,7 @@ nav:
   - Human Presence Sensor 1U: 
       - Intro: 1u/index.md
       - Getting Start: 1u/getting-start.md
+      - Fine-Tuning Radar Settings: 1u/advance_config.md
       - Firmware:
         - Intro: 1u/firmware/index.md
         - What's My Version: 1u/firmware/version.md
