@@ -108,7 +108,7 @@ nav:
       - Firmware:
         - Intro: 1u/firmware/index.md
         - What's My Version: 1u/firmware/version.md
-        - OTA Upgrade: 1u/firmware/ota.md
+        - OTA Update: 1u/firmware/ota.md
         - Advanced:
           - Factory Restore: 1u/firmware/factory.md
           - ESPHome Source: 1u/firmware/yaml.md
