@@ -16,3 +16,8 @@ A number of optimizations have been made to ensure that the entire connection is
 If you are not familiar with EspHome devices, then you can refer to our Quick Start Guide:
 
 [Getting Start](getting-start.md){.md-button .md-button--primary}
+
+## Acknowledgments
+- The developers of Home Assistant, ESPHome, who have built world-class open source projects.   
+- The esphome library for the ld2410, made by regevbr, has made the popularization of the ld2410 possible.  
+- Our users gave very valuable suggestions, as well as friends from the reddit community, and enthusiasts from the HomeAssistant forums, and the HomeAssistant Facebook group.
